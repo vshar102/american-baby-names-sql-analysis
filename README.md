@@ -86,7 +86,7 @@ Identify female names that appeared in both 1920 and 2020 — measuring true cen
 ## 🛠 Technologies Used
 
 * **SQL (PostgreSQL dialect)**
-* **Jupyter Notebook (DataCamp Workspaces)**
+* **Jupyter Notebook**
 
 ---
 
